@@ -19,3 +19,4 @@ This project welcomes contributions of any kind, whether you want to add new fea
 ## License
 Sweep is published under the MIT license. See
 the LICENSE file for more information.
+
